@@ -139,7 +139,7 @@ body{
  overflow: hidden;
  display: grid;
  max-width: 600px;
-
+ margin-top: 2em;
 }
 
 @media (min-width:600px){
